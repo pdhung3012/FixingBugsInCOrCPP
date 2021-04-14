@@ -1,0 +1,2 @@
+fopInput=""
+fpTextInput
